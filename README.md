@@ -34,7 +34,7 @@ Finally, you can save all checked events in a file. You can have multiple differ
 Go back to the capture window by pushing the close button.
 
 
-About
------
+Download
+--------
 
-![about](http://n3rd4n1.github.io/images/screenshot/evRec/about.png)
+[evRec-1.0.zip](http://n3rd4n1.github.io/bin/evRec-1.0.zip)
