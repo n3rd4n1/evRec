@@ -38,3 +38,7 @@ Download
 --------
 
 [evRec-1.0.zip](http://n3rd4n1.github.io/bin/evRec-1.0.zip)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/n3rd4n1/evrec/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
